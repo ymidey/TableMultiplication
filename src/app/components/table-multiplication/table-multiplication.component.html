@@ -1,0 +1,12 @@
+<table>
+    <thead>
+        <tr>
+            <th>Table de {{nombre}}</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let number of tabChiffres">
+            <td>{{ nombre }} * {{ number }} = {{ number * nombre }}</td>
+        </tr>
+    </tbody>
+</table>

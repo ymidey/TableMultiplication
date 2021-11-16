@@ -1,0 +1,12 @@
+<div>
+    <header>
+        <p>
+            Les tables de multiplication de 1 à {{nombreTables}}
+        </p>
+    </header>
+    <article class="is-multiline columns">
+        <div class="column is-3 mb-4" *ngFor="let number of tableMultiplication">
+            <app-table-multiplication [nombre]="number"></app-table-multiplication>
+        </div>
+    </article>
+</div>
