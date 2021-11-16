@@ -27,14 +27,11 @@ Dépôts GitHub : https://github.com/ymidey/TableMultiplication
 ### Matériels utilisés : 
 
 - OS :  Windows 10
-
 - Version NodeJS : v16.13.0
-
 - Version Angular CLI : 13.0.2
-
 - Version Visual Studio Code : 1.62.2
 
-  
+<div style="page-break-after: always"></div>
 
 ## Objectifs : 
 
@@ -51,6 +48,8 @@ En utilisant l'application web créer dans la première partie, il faudra en plu
 ## Présentations des composants du projets
 
 ![](https://cdn.discordapp.com/attachments/356833358262697986/910273357562413126/DiagrammeUML.png)
+
+<div style="page-break-after: always"></div>
 
 ## <u>Projets</u>
 
@@ -76,6 +75,8 @@ Puis nous allons l'initialiser dans notre projet en rajouter cette ligne dans le
               "src/styles.css"
             ],
 ```
+
+<div style="page-break-after: always"></div>
 
 ### Première partie : table de multiplication du nombre choisi
 
@@ -182,6 +183,8 @@ Avec la boucle <code>*ngFor</code> nous allons lire toute les valeurs du tableau
 Si par exemple, l'utilisateur choisi le chiffre 5, la table de 5 s'affichera de 1x5 jusqu'à 1x10.
 
 ![](https://cdn.discordapp.com/attachments/356833358262697986/910277224383533086/Capture.PNG)
+
+<div style="page-break-after: always"></div>
 
 ### Seconde partie : table de multiplication de 1 à x (valeur choisi par l'utilisateur)
 
@@ -293,7 +296,9 @@ Si par exemple, l'utilisateur choisi d'afficher toute les tables de 1 à 7, la t
 
 ![](https://cdn.discordapp.com/attachments/356833358262697986/910286170796199977/Captur2e.PNG)
 
+<div style="page-break-after: always"></div>
+
 ## Conclusion
 
-Ce projet ma permis de bien appréhender le framework Angular ainsi que le langage de programmation TypeScript. Je n'ai pas eu trop de difficulté à effectué ce projet, car je n'ai eu quasiment aucune grosse erreur qui m'a beaucoup ralenti (pas comme certain et son pc tout cassé). Le seul reproche que je pourrai faire à mon projet est que mon ReadMe n'est pas assez précis mais par manque de temps je doit le rendre comme telle.
+Ce projet ma permis de bien appréhender le framework Angular ainsi que le langage de programmation TypeScript. Je n'ai pas eu trop de difficulté à effectué ce projet, car je n'ai eu quasiment aucune grosse erreur qui m'a beaucoup ralenti (pas comme certain et son pc tout cassé). Le seul reproche que je pourrai faire à mon projet est que mon ReadMe n'est pas assez précis et le code n'est pas bien indenté en exportant le README en pdf mais par manque de temps je doit le rendre comme telle.
 
