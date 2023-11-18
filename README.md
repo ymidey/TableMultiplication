@@ -300,5 +300,5 @@ Si par exemple, l'utilisateur choisi d'afficher toute les tables de 1 à 7, la t
 
 ## Conclusion
 
-Ce projet ma permis de bien appréhender le framework Angular ainsi que le langage de programmation TypeScript. Je n'ai pas eu trop de difficulté à effectué ce projet, car je n'ai eu quasiment aucune grosse erreur qui m'a beaucoup ralenti (pas comme certain et son pc tout cassé). Le seul reproche que je pourrai faire à mon projet est que mon ReadMe n'est pas assez précis et le code n'est pas bien indenté en exportant le README en pdf mais par manque de temps je doit le rendre comme telle.
+Ce projet ma permis de bien appréhender le framework Angular ainsi que le langage de programmation TypeScript. Je n'ai pas eu trop de difficulté à effectué ce projet, car je n'ai eu quasiment aucune grosse erreur qui m'a beaucoup ralenti.
 
